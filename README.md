@@ -1,3 +1,3 @@
-# angular-l6epoh-xrhl3x
+# angular6-prototype-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-l6epoh-xrhl3x)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular6-prototype-project)
